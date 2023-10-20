@@ -19,7 +19,7 @@
 
         Console.WriteLine($"{quilometros / horaGeral} m/s");
         Console.WriteLine($"{((quilometros / horaGeral) * 3.6)} km/h");
-        Console.WriteLine($"{(((quilometros / horaGeral) * 3.6) *  2.23694)} mph");
+        Console.WriteLine($"{((quilometros / horaGeral) *  2.23694)} mph");
         Console.ReadKey();
     }
 }
