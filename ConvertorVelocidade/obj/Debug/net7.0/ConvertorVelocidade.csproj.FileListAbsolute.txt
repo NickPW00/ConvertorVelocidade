@@ -1,0 +1,15 @@
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\bin\Debug\net7.0\ConvertorVelocidade.exe
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\bin\Debug\net7.0\ConvertorVelocidade.deps.json
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\bin\Debug\net7.0\ConvertorVelocidade.runtimeconfig.json
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\bin\Debug\net7.0\ConvertorVelocidade.dll
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\bin\Debug\net7.0\ConvertorVelocidade.pdb
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.csproj.AssemblyReference.cache
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.AssemblyInfoInputs.cache
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.AssemblyInfo.cs
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.csproj.CoreCompileInputs.cache
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.dll
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\refint\ConvertorVelocidade.dll
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.pdb
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ConvertorVelocidade.genruntimeconfig.cache
+C:\Users\nicholas.wright\Desktop\ConvertorVelocidade\ConvertorVelocidade\obj\Debug\net7.0\ref\ConvertorVelocidade.dll
